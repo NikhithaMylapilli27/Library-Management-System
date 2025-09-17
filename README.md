@@ -35,7 +35,7 @@ A Library Management System  built with PHP and MySQL is a web-based application
 | Component        | Technology     |
 |------------------|----------------|
 | Frontend         | HTML, CSS, JavaScript |
-| Backend          | PHP            |
+| Backend          | JAVA           |
 | Database         | MySQL          |
 | Server           | WAMP |
 
